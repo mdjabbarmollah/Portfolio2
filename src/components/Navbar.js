@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import { FiMenu, FiMoon, FiSun, FiX } from "react-icons/fi";
 import { profile } from "@/data/profile";
 
-
+// Resume হিরো সেকশনে বাটন আছে, তাই নেভবারে রাখা হয়নি
 const navItems = [
   { label: "Projects", href: "/#projects" },
   { label: "Skills", href: "/#skills" },

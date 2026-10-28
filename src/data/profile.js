@@ -3,13 +3,12 @@
 export const profile = {
   name: "MD Jabbar Mollah",
   title: "Full Stack Web Developer",
-  intro:
-    "I'm a freelance software engineer. Bring me an idea and I'll turn it into a real product, or bring me the app your AI tools built and I'll get it working.",
+  intro: "I build business websites, web apps and Discord bots, and I fix AI-generated code that does not work.",
   photo: "/grok-image-604e167f-0cdb-426a-8711-1c98a3baf7dc.jpg", 
   resume: "/resume.pdf",
   email: "mdjabbarmollah718@gmail.com",
   phone: "+880 1637198172",
-  whatsapp: "+880 1637198172", 
+  whatsapp: "8801637198172", 
   socials: {
     github: "https://github.com/mdjabbarmollah",
     linkedin: "https://www.linkedin.com/in/mdjabbarmollah/",
