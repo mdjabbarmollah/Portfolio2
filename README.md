@@ -2,7 +2,7 @@
 
 A fully responsive personal portfolio built with **Next.js** (App Router). It showcases my projects, skills, background and contact details, with a light and dark theme.
 
-🔗 **Live site:** https://YOUR-PORTFOLIO.vercel.app *(ডিপ্লয়ের পরে এই লিংক বদলাও)*
+🔗 **Live site:** https://portfolio2-tawny-psi.vercel.app
 
 ---
 
