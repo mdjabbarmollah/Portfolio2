@@ -56,6 +56,7 @@ export default function Contact() {
         <div className="social-row">
           {socials.map(([key, url]) => {
             const Icon = socialIcons[key];
+            if (!Icon) return null;
             return (
               <a
                 key={key}
@@ -63,7 +64,7 @@ export default function Contact() {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="icon-link"
-                aria-label={socialLabels[key]}
+                aria-label={socialLabels[key] || key}
               >
                 <Icon />
               </a>

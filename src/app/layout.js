@@ -7,6 +7,7 @@ const sans = Plus_Jakarta_Sans({ subsets: ["latin"], variable: "--font-sans" });
 const mono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-mono" });
 
 export const metadata = {
+  metadataBase: new URL('https://mdjabbarmollah.vercel.app'), // Replace with your actual domain
   title: `${profile.name} | ${profile.title}`,
   description: profile.intro,
 };
